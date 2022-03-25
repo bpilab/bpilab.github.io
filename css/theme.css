@@ -69,6 +69,7 @@ figcaption {
 	flex-direction: row;
 	flex-wrap: wrap;
 	column-gap: 1.2em;
+	align-items: center;
 }
 
 .fcols {

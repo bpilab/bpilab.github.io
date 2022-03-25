@@ -3,8 +3,8 @@
 	<channel>
 		<title>BP Institute</title>
 		<description>bpi.cam.ac.uk</description>
-		<link>/jekyll-clean</link>
-		<atom:link href="/jekyll-clean/feed.xml" rel="self" type="application/rss+xml" />
+		<link></link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>New website</title>
@@ -13,8 +13,8 @@
 &lt;p&gt;building a new website&lt;/p&gt;
 </description>
 				<pubDate>Fri, 07 Jan 2022 00:00:00 -0600</pubDate>
-				<link>/jekyll-clean/2022/01/new-website</link>
-				<guid isPermaLink="true">/jekyll-clean/2022/01/new-website</guid>
+				<link>/2022/01/new-website</link>
+				<guid isPermaLink="true">/2022/01/new-website</guid>
 			</item>
 		
 			<item>
@@ -109,8 +109,8 @@
 &lt;/ul&gt;
 </description>
 				<pubDate>Thu, 07 Jan 2021 00:00:00 -0600</pubDate>
-				<link>/jekyll-clean/2021/01/test</link>
-				<guid isPermaLink="true">/jekyll-clean/2021/01/test</guid>
+				<link>/2021/01/test</link>
+				<guid isPermaLink="true">/2021/01/test</guid>
 			</item>
 		
 			<item>
@@ -157,8 +157,8 @@ for wintertime with a focus on ventilation. &lt;/li&gt;
 &lt;/ul&gt;
 </description>
 				<pubDate>Thu, 07 Jan 2021 00:00:00 -0600</pubDate>
-				<link>/jekyll-clean/2021/01/covid-research</link>
-				<guid isPermaLink="true">/jekyll-clean/2021/01/covid-research</guid>
+				<link>/2021/01/covid-research</link>
+				<guid isPermaLink="true">/2021/01/covid-research</guid>
 			</item>
 		
 			<item>
@@ -174,8 +174,8 @@ for wintertime with a focus on ventilation. &lt;/li&gt;
 &lt;/ul&gt;
 </description>
 				<pubDate>Thu, 01 Oct 2020 00:00:00 -0500</pubDate>
-				<link>/jekyll-clean/2020/10/divestment</link>
-				<guid isPermaLink="true">/jekyll-clean/2020/10/divestment</guid>
+				<link>/2020/10/divestment</link>
+				<guid isPermaLink="true">/2020/10/divestment</guid>
 			</item>
 		
 	</channel>
