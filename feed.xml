@@ -7,153 +7,30 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
-				<title>New website</title>
-				<description>&lt;h3 id=&quot;new-website&quot;&gt;new website&lt;/h3&gt;
+				<title>2021 Masterclass</title>
+				<description>&lt;p&gt;The Energy Masterclass is a 2 day intensive meeting of lectures and discussion, with talks from the leading experts in various aspects of energy supply and demand, with special focus on the energy transition and the technologies needed to optimise the new energy systems. There will be talks on Wind, Solar and Geothernal, Tidal and Nuclear energy, Carbon Capture and Storage, Battery Storage, Hydrogen, EV charging systems, the Transformation of the Electricity Grid, Low carbon flight, Energy Policy and the Decarbonisation of Buildings, amongst other topics, all given by leading industrialists and academics.&lt;/p&gt;
 
-&lt;p&gt;building a new website&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/2021-masterclass-plume.jpg&quot; /&gt;&lt;/p&gt;
 </description>
-				<pubDate>Fri, 07 Jan 2022 00:00:00 -0600</pubDate>
-				<link>/2022/01/new-website</link>
-				<guid isPermaLink="true">/2022/01/new-website</guid>
-			</item>
-		
-			<item>
-				<title>table</title>
-				<description>&lt;h3 id=&quot;new-website&quot;&gt;new website&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Syntax&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Description&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Test Text&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Header&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Title&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Here’s this&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Paragraph&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Text&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;And more&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Fundamentals&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Energy Resarch&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Environmalt Resarch&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;/user/stuart&quot;&gt;Wetting&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;* &lt;a href=&quot;/node/345&quot;&gt;Energy Efficiency&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;/user/andy&quot;&gt;Viscous Fingering&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;* Renewable Energy&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;/user/andy&quot;&gt;Porous Media&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;* &lt;a href=&quot;/node/346&quot;&gt;Carbon Reduction (CCS)&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;/user/stuart&quot;&gt;Corrosion&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;/user/alex&quot;&gt;Encapsulation&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;/user/andy&quot;&gt;Dispersion&lt;/a&gt;&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt; &lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;energy-research&quot;&gt;Energy Research&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Buildings&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/user/andy&quot;&gt;Subsurface heat recovery&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Carbon sequestration&lt;/li&gt;
-  &lt;li&gt;Refrigeration&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/user/stuart&quot;&gt;Super-capacitors&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Lubrication&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;environmental-research&quot;&gt;Environmental Research&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/node/347&quot;&gt;Natural Hazards&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/node/348&quot;&gt;Natural Environment&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Deep Sea Mining&lt;/li&gt;
-  &lt;li&gt;Ice&lt;/li&gt;
-  &lt;li&gt;Volcanoes&lt;/li&gt;
-  &lt;li&gt;Oceans&lt;/li&gt;
-  &lt;li&gt;Avalanches&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-				<pubDate>Thu, 07 Jan 2021 00:00:00 -0600</pubDate>
-				<link>/2021/01/test</link>
-				<guid isPermaLink="true">/2021/01/test</guid>
+				<pubDate>Mon, 06 Dec 2021 00:00:00 -0600</pubDate>
+				<link>/2021/12/2021-masterclass</link>
+				<guid isPermaLink="true">/2021/12/2021-masterclass</guid>
 			</item>
 		
 			<item>
 				<title>Covid-19 Research</title>
-				<description>&lt;h3&gt;Covid 19-related research&lt;/h3&gt;
+				<description>&lt;h3 id=&quot;covid-19-related-research&quot;&gt;Covid 19-related research&lt;/h3&gt;
+
 &lt;p&gt;Research is ongoing on the mixing and ventilation of aerosols and viruses in buildings. Key results and publications will be added below as they become available.&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0855&quot;&gt;&lt;strong&gt;The
-ventilation of buildings and other mitigating measures for COVID-19:
-a focus on wintertime&lt;/strong&gt;&lt;/a&gt; (Proc. R. Soc. A. 477), where
-we review knowledge of the transmission of COVID-19 indoors, examine
-the evidence for mitigating measures, and consider the implications
-for wintertime with a focus on ventilation. &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.atsjournals.org/doi/10.1164/rccm.202009-3634LE&quot;&gt;&lt;strong&gt;The
-      impact of hospital ward ventilation on airborne pathogen
-      exposure&lt;/strong&gt;&lt;/a&gt; (Am. J. Respir. Crit. Care Med., 203(6)),
-  where we present the results of a monitoring campaign in the cystic
-  fibrosis ward in the new Royal Papworth Hospital in Cambridge. &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/mixing-of-airborne-contaminants-by-the-repeated-passage-of-people-along-a-corridor/C9237DEA0C86D1EB661055D55B05E9BF&quot;&gt;&lt;strong&gt;The
-      mixing of airborne contaminants by the repeated passage of
-      people along a corridor&lt;/strong&gt;&lt;/a&gt; (J. Fluid Mech. 903), where
-  we show that people walking through a space drive significant mixing
-  of the air, causing viruses and aerosols to be transported long
-  distances and remain suspended in the air for a long time. &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.bpi.cam.ac.uk/sites/default/files/hospitalwithvoice.mp4&quot;&gt;&lt;strong&gt;Analogue
-      Laboratory Modelling of Ventilation in Nightingale
-      Hospitals&lt;/strong&gt;&lt;/a&gt;, where we compare different strategies
-  for the ventilation of a ward. &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Nzs3AwffK-Q&amp;amp;feature=youtu.be&quot;&gt;&lt;strong&gt;Coronavirus
-      Pandemic: Making Safer Emergency Hospitals&lt;/strong&gt;&lt;/a&gt;.
-  Healthcare authorities are attempting to add thousands of additional
-  bed spaces by temporarily adapting any available large open
-  halls. Here, we compare different low-tech adaptations to
-  ventilation systems and ward configuration.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/on-the-transport-of-heavy-particles-through-an-upward-displacementventilated-space/A469E589A3DAB33799899F4581D79CD3&quot;&gt;&lt;strong&gt;On
-      the transport of heavy particles through an upward
-      displacement-ventilated space&lt;/strong&gt;&lt;/a&gt; (J. Fluid Mech. 772),
-  where we investigate the removal of contaminants from a warm room
-  using displacement ventilation. &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/on-the-transport-of-heavy-particles-through-a-downward-displacementventilated-space/766C5DC9A607B524F883496B11E6B5F2&quot;&gt;&lt;strong&gt;On
-      the transport of heavy particles through a downward
-      displacement-ventilated space&lt;/strong&gt;&lt;/a&gt; (J. Fluid Mech. 774),
-  where we investigate the removal of contaminants from a room
-  containing a source of cooling. &lt;/li&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0855&quot;&gt;The ventilation of buildings and other mitigating measures for COVID-19: a focus on wintertime&lt;/a&gt;&lt;/strong&gt; (Proc. R. Soc. A. 477), where we review knowledge of the transmission of COVID-19 indoors, examine the evidence for mitigating measures, and consider the implications for wintertime with a focus on ventilation.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.atsjournals.org/doi/10.1164/rccm.202009-3634LE&quot;&gt;The impact of hospital ward ventilation on airborne pathogen exposure&lt;/a&gt;&lt;/strong&gt; (Am. J. Respir. Crit. Care Med., 203(6)), where we present the results of a monitoring campaign in the cystic fibrosis ward in the new Royal Papworth Hospital in Cambridge.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/mixing-of-airborne-contaminants-by-the-repeated-passage-of-people-along-a-corridor/C9237DEA0C86D1EB661055D55B05E9BF&quot;&gt;The mixing of airborne contaminants by the repeated passage of people along a corridor&lt;/a&gt;&lt;/strong&gt; (J. Fluid Mech. 903), where we show that people walking through a space drive significant mixing of the air, causing viruses and aerosols to be transported long distances and remain suspended in the air for a long time.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;http://www.bpi.cam.ac.uk/sites/default/files/hospitalwithvoice.mp4&quot;&gt;Analogue Laboratory Modelling of Ventilation in Nightingale Hospitals&lt;/a&gt;&lt;/strong&gt;, where we compare different strategies for the ventilation of a ward.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Nzs3AwffK-Q&amp;amp;feature=youtu.be&quot;&gt;Coronavirus Pandemic: Making Safer Emergency Hospitals&lt;/a&gt;&lt;/strong&gt;. Healthcare authorities are attempting to add thousands of additional bed spaces by temporarily adapting any available large open halls. Here, we compare different low-tech adaptations to ventilation systems and ward configuration.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/on-the-transport-of-heavy-particles-through-an-upward-displacementventilated-space/A469E589A3DAB33799899F4581D79CD3&quot;&gt;On the transport of heavy particles through an upward displacement-ventilated space&lt;/a&gt;&lt;/strong&gt; (J. Fluid Mech. 772), where we investigate the removal of contaminants from a warm room using displacement ventilation.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/on-the-transport-of-heavy-particles-through-a-downward-displacementventilated-space/766C5DC9A607B524F883496B11E6B5F2&quot;&gt;On the transport of heavy particles through a downward displacement-ventilated space&lt;/a&gt;&lt;/strong&gt; (J. Fluid Mech. 774), where we investigate the removal of contaminants from a room containing a source of cooling.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 				<pubDate>Thu, 07 Jan 2021 00:00:00 -0600</pubDate>
