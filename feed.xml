@@ -7,6 +7,40 @@
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Dynamics of deep-submarine volcanic eruptions</title>
+				<description>&lt;p&gt;&lt;strong&gt;Eric Newland, Nicola Mingotti, &lt;a href=&quot;/user/aww1&quot;&gt;Andy Woods&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Scientific Reports&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Deposits from explosive submarine eruptions have been found in the deep sea, 1–4 km below the surface, with both flow and fall deposits extending several km’s over the seafloor. A model of a turbulent fountain suggests that after rising 10–20 m above the vent, the erupting particle-laden mixture entrains and mixes with sufficient seawater that it becomes denser than seawater. The momentum of the resulting negatively buoyant fountain is only sufficient to carry the material 50–200 m above the seafloor and much of the solid material then collapses to the seafloor; this will not produce the far-reaching fall deposits observed on the seabed. However, new laboratory experiments show that particle sedimentation at the top of the fountain enables some of the hot, buoyant water in the fountain to separate from the collapsing flow and continue rising as a buoyant plume until it forms a radially spreading intrusion higher in the water column. With eruption rates of 106–107 kg s&lt;sup&gt;−1&lt;/sup&gt;, we estimate that this warm water may rise a few 100’s m above the fountain. Some of the finer grained pyroclasts can be carried upwards by this flow and as they spread out in the radial intrusion, they gradually sediment to form a fall deposit which may extend 1000’s m from the source. Meanwhile, material collapsing from the dense fountain forms aqueous pyroclastic flows which may also spread 1000’s m from the vent forming a flow deposit on the seabed. Quantification of the controls on the concurrent fall and flow deposits, and comparison with field observations, including from the 2012 eruption of Havre Volcano in the South Pacific, open the way to new understanding of submarine eruptions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nature.com/articles/s41598-022-07351-9&quot;&gt;Article link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/2021-masterclass-plume.jpg&quot; /&gt;&lt;/p&gt;
+</description>
+				<pubDate>Mon, 28 Feb 2022 00:00:00 -0600</pubDate>
+				<link>/2022/02/deepsubmarinevolcaniceruptions</link>
+				<guid isPermaLink="true">/2022/02/deepsubmarinevolcaniceruptions</guid>
+			</item>
+		
+			<item>
+				<title>On particle separation from turbulent particle plumes in a cross-flow</title>
+				<description>&lt;p&gt;&lt;strong&gt;Cara James, Nicola Mingotti, &lt;a href=&quot;/user/aww1&quot;&gt;Andy Woods&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Journal of Fluid Mechanics&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We present new experiments of particle-driven turbulent plumes issuing from a constant source of dense particle-laden fluid, with buoyancy flux, B, in a uniform horizontal current, u. Experiments show that a turbulent, well-mixed plume develops, in which the downward vertical speed w decreases with depth z according to w = 0.76(B/uz)(1/2) while the horizontal speed rapidly asymptotes to the current speed u, provided that the Stokes settling speed of the particles v &amp;lt; 0.92w. For v &amp;gt; 0.92w, the particles separate from the plume fluid, and their depth z increases according to the simple sedimentation trajectory dz/dx = v/u. As the particles sediment, they form clusters of particles, which lead to fluctuations in the particle load with position, but do not appear to change the time-average sedimentation speed. We explore the impact of these results for deep-sea mining, in which the fate of the plume water as well as the particles is key for assessing potential environmental impacts.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/on-particle-separation-from-turbulent-particle-plumes-in-a-crossflow/0CD6E4D7D627EC92DE3514F8AAE56FED&quot;&gt;Article link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/sedimentplume.png&quot; alt=&quot;Sediment plume&quot; /&gt;&lt;/p&gt;
+</description>
+				<pubDate>Tue, 14 Dec 2021 00:00:00 -0600</pubDate>
+				<link>/2021/12/particleplumeseparationpaper</link>
+				<guid isPermaLink="true">/2021/12/particleplumeseparationpaper</guid>
+			</item>
+		
+			<item>
 				<title>2021 Masterclass</title>
 				<description>&lt;p&gt;The Energy Masterclass is a 2 day intensive meeting of lectures and discussion, with talks from the leading experts in various aspects of energy supply and demand, with special focus on the energy transition and the technologies needed to optimise the new energy systems. There will be talks on Wind, Solar and Geothernal, Tidal and Nuclear energy, Carbon Capture and Storage, Battery Storage, Hydrogen, EV charging systems, the Transformation of the Electricity Grid, Low carbon flight, Energy Policy and the Decarbonisation of Buildings, amongst other topics, all given by leading industrialists and academics.&lt;/p&gt;
 
