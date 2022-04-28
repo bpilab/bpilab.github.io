@@ -1,3 +1,9 @@
+* Mashayek, A., Reynard, N., Zhai, F., Srinivasan, K., Jelley, A., Naveira Garabato, A.C., and Caulfield, C. [Deep ocean learning of small scale turbulence](http://dx.doi.org/10.1002/essoar.10510319.2)  2022
+
+* Mashayek, A., Barry, B., Alford, M., Cimoli, L., and Caulfield, C.-.C. [A physical-statistical recipe for representation of small scale oceanic turbulent mixing in climate models](http://dx.doi.org/10.1002/essoar.10508227.2)  2022
+
+* Portwood, G.D., de Bruyn Kops, S.M., and Caulfield, C.P. [Implications of inertial subrange scaling for stably stratified mixing](http://dx.doi.org/10.1017/jfm.2022.160) Journal of Fluid Mechanics 2022
+
 * Mashayek, A., Zhai, F., Reynard, N., Jelley, A., Caulfield, C., and Naveira Garabato, A.C. [Deep ocean learning of wave-induced turbulence](http://dx.doi.org/10.1002/essoar.10510319.1)  2022
 
 * Mashayek, A., Baker, L.E., Cael, B.B., and Caulfield, C.P. [A Marginal Stability Paradigm for Shear‐Induced Diapycnal Turbulent Mixing in the Ocean](http://dx.doi.org/10.1029/2021gl095715) Geophysical Research Letters 2022

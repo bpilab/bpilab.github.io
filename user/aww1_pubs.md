@@ -166,13 +166,7 @@
 
 * Woods, A.W., and Farcas, A. [Capillary entry pressure and the leakage of gravity currents through a sloping layered permeable rock](http://dx.doi.org/10.1017/s0022112008004527) Journal of Fluid Mechanics 2009
 
-* Menand, T., Phillips, J., Sparks, R.S.J., and Woods, A.W. [Modeling the flow of basaltic magma into subsurface nuclear facilities](http://publications.esc.cam.ac.uk:8080/1465/)  2009
-
-* LeJeune, A.M., Hill, B., Woods, A.W., Sparks, R.S.J., and Connor, C.B. [Intrusion dynamics for volatile-poor basaltic magma into subsurface nuclear installations](http://publications.esc.cam.ac.uk:8080/1466/)  2009
-
 * Farcas, A., and Woods, A.W. [The effect of drainage on the capillary retention of CO2 in a layered permeable rock](http://dx.doi.org/10.1017/s0022112008004400) JOURNAL OF FLUID MECHANICS 2009
-
-* Gallo, F., Woods, A.W., Hope, C., Worthington, B., and Coutts, A. [Energy, Climate Change and the Environment](http://publications.esc.cam.ac.uk:8080/1492/)  2009
 
 * MOTT, R.W., and WOODS, A.W. [On the mixing of a confined stratified fluid by a turbulent buoyant plume](http://dx.doi.org/10.1017/s002211200800520x) JOURNAL OF FLUID MECHANICS 2009
 
@@ -271,8 +265,6 @@
 * Nield, S.E., and Woods, A.W. [Effects of flow density on the dynamics of dilute pyroclastic density currents](http://dx.doi.org/10.1016/s0377-0273(03)00314-7) Journal of Volcanology and Geothermal Research 2004
 
 * Phillips, J.C., and Woods, A.W. [On ventilation of a heated room through a single doorway](http://dx.doi.org/10.1016/j.buildenv.2003.09.002) Building and Environment 2004
-
-* Woods, A.W. [Thermal reaction fronts in porous rock]() GEOCHIMICA ET COSMOCHIMICA ACTA 2004
 
 * Gladstone, C., Ritchie, L.J., Sparks, R.S.J., and Woods, A.W. [An experimental investigation of density‐stratified inertial gravity currents](http://dx.doi.org/10.1111/j.1365-3091.2004.00650.x) SEDIMENTOLOGY 2004
 
