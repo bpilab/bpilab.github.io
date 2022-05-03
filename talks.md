@@ -34,3 +34,13 @@ Thu, 19 May 2022 11:30:00 +0000
 
 Open Plan Area, BP Institute, Madingley Rise CB3 0EZ
 
+#### [Urban Flooding Mitigation](https://talks.cam.ac.uk/talk/index/173951)
+
+**Dr Dick Fenner (University of Cambridge)**
+
+Seminars for the Centre for Environmental and Industrial Flows
+
+Thu, 26 May 2022 11:30:00 +0000
+
+Open Plan Area, BP Institute, Madingley Rise CB3 0EZ
+
