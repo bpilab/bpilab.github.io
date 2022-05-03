@@ -1,3 +1,4 @@
+## Publications
 * McCoy, T.M., Armstrong, A.J., Moore, J.E., Holt, S.A., Tabor, R.F., and Routh, A.F. [Spontaneous surface adsorption of aqueous graphene oxide by synergy with surfactants](http://dx.doi.org/10.1039/d1cp04317j) Physical chemistry chemical physics : PCCP 2022
 
 * Stephens, A.D., Kölbel, J., Moons, R., Ruggerio, M.T., Mahmoudi, N., Shmool, T.A., McCoy, T.M., Nietlispach, D., Routh, A.F., Sobott, F., Zeitler, J.A., and Schierle, G.S.K. [The role of water mobility in protein misfolding](http://dx.doi.org/10.1101/2021.01.06.425575)  2021

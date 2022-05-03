@@ -1,3 +1,4 @@
+## Publications
 * Cheng, Z., Li, J., Loh, C.Y., and Luo, L.-.S. [An exactly force-balanced boundary-conforming arbitrary-Lagrangian-Eulerian method for interfacial dynamics](http://dx.doi.org/10.1016/j.jcp.2020.109237) Journal of Computational Physics 2020
 
 * Zhang, C., Fakhari, A., Li, J., Luo, L.-.S., and Qian, T. [A comparative study of interface-conforming ALE-FE scheme and diffuse interface AMR-LB scheme for interfacial dynamics](http://dx.doi.org/10.1016/j.jcp.2019.06.048) Journal of Computational Physics 2019

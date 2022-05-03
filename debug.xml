@@ -1,0 +1,113 @@
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:api="http://www.symplectic.co.uk/publications/api" xmlns:html="http://www.w3.org/1999/xhtml">
+    <api:schema-version>5.5</api:schema-version>
+    <category scheme="http://www.symplectic.co.uk/publications/atom/feeds/" term="item" label="Item" />
+    <id>tag:elements@cambridge,5.21:/secure-api/v5.5/feeds/publications/1316071</id>
+    <updated>2022-04-25T18:31:35.207+01:00</updated>
+    <generator uri="https://uat-elements.admin.cam.ac.uk/" version="5.21">Symplectic Elements</generator>
+    <icon>https://uat-elements.admin.cam.ac.uk:8091/secure-api/v5.5/symplectic.ico</icon>
+    <rights>This data is the property of the Organisation, and can only be used with permission.</rights>
+    <subtitle>This feed represents a single publication.</subtitle>
+    <link type="application/atom+xml" rel="self" href="https://uat-elements.admin.cam.ac.uk:8091/secure-api/v5.5/publications/1316071" />
+    <title>A generalized marginal stability criterion for shear-induced ocean interior diapycnal turbulent mixing</title>
+    <author>
+        <name>Symplectic Elements at Cambridge</name>
+    </author>
+    <entry>
+        <id>tag:elements@cambridge,5.21:/secure-api/v5.5/publications/1316071</id>
+        <category scheme="http://www.symplectic.co.uk/publications/atom/entries/" term="item" label="Item" />
+        <updated>2022-04-25T18:31:35.207+01:00</updated>
+        <link type="application/atom+xml" rel="alternate" href="https://uat-elements.admin.cam.ac.uk:8091/secure-api/v5.5/publications/1316071" />
+        <title>A generalized marginal stability criterion for shear-induced ocean interior diapycnal turbulent mixing</title>
+        <content type="xhtml">
+            <html:div>
+                <html:p>Publication (journal article)</html:p>
+                <html:p>
+                    <html:a href="https://uat-elements.admin.cam.ac.uk:8091/secure-api/v5.5/publications/1316071/relationships?detail=full">Relationships</html:a> with other data</html:p>
+            </html:div>
+        </content>
+        <api:object category="publication" id="1316071" last-affected-when="2022-04-25T18:31:35.207+01:00" last-modified-when="2021-09-12T19:02:56.213+01:00" href="https://uat-elements.admin.cam.ac.uk:8091/secure-api/v5.5/publications/1316071" created-when="2021-08-29T19:02:30.293+01:00" type-id="5" type="journal-article">
+            <api:ever-approved>true</api:ever-approved>
+            <api:is-public>true</api:is-public>
+            <api:records>
+                <api:record format="native" id="4284735" source-id="13" source-name="crossref" source-display-name="Crossref" id-at-source="10.1002/essoar.10507781.1">
+                    <api:native>
+                        <api:field name="authors" type="person-list" display-name="Authors">
+                            <api:people>
+                                <api:person>
+                                    <api:last-name>Mashayek</api:last-name>
+                                    <api:initials>A</api:initials>
+                                    <api:first-names>Ali</api:first-names>
+                                    <api:separate-first-names>
+                                        <api:first-name>Ali</api:first-name>
+                                    </api:separate-first-names>
+                                    <api:identifiers>
+                                        <api:identifier scheme="orcid">0000-0002-8202-3294</api:identifier>
+                                    </api:identifiers>
+                                </api:person>
+                                <api:person>
+                                    <api:links>
+                                        <api:link type="elements/user" id="1452" href="https://uat-elements.admin.cam.ac.uk:8091/secure-api/v5.5/users/1452" />
+                                    </api:links>
+                                    <api:last-name>Caulfield</api:last-name>
+                                    <api:initials>C</api:initials>
+                                    <api:first-names>Colm</api:first-names>
+                                    <api:separate-first-names>
+                                        <api:first-name>Colm</api:first-name>
+                                    </api:separate-first-names>
+                                    <api:identifiers>
+                                        <api:identifier scheme="orcid">0000-0002-3170-9480</api:identifier>
+                                    </api:identifiers>
+                                </api:person>
+                                <api:person>
+                                    <api:last-name>Baker</api:last-name>
+                                    <api:initials>L</api:initials>
+                                    <api:first-names>Lois</api:first-names>
+                                    <api:separate-first-names>
+                                        <api:first-name>Lois</api:first-name>
+                                    </api:separate-first-names>
+                                    <api:identifiers>
+                                        <api:identifier scheme="orcid">0000-0003-2678-3691</api:identifier>
+                                    </api:identifiers>
+                                </api:person>
+                                <api:person>
+                                    <api:last-name>Cael</api:last-name>
+                                    <api:initials>BB</api:initials>
+                                    <api:first-names>BB</api:first-names>
+                                    <api:separate-first-names>
+                                        <api:first-name>B</api:first-name>
+                                        <api:first-name>B</api:first-name>
+                                    </api:separate-first-names>
+                                    <api:identifiers>
+                                        <api:identifier scheme="orcid">0000-0003-1317-5718</api:identifier>
+                                    </api:identifiers>
+                                </api:person>
+                            </api:people>
+                        </api:field>
+                        <api:field name="doi" type="text" display-name="Publisher DOI">
+                            <api:text>10.1002/essoar.10507781.1</api:text>
+                            <api:links>
+                                <api:link type="doi" href="http://doi.org/10.1002/essoar.10507781.1" />
+                                <api:link type="altmetric" href="http://www.altmetric.com/details.php?doi=10.1002/essoar.10507781.1" />
+                            </api:links>
+                        </api:field>
+                        <api:field name="publisher" type="text" display-name="Publisher">
+                            <api:text>Wiley</api:text>
+                        </api:field>
+                        <api:field name="record-created-at-source-date" type="date" display-name="Record created at source">
+                            <api:date>
+                                <api:day>19</api:day>
+                                <api:month>8</api:month>
+                                <api:year>2021</api:year>
+                            </api:date>
+                        </api:field>
+                        <api:field name="title" type="text" display-name="Title">
+                            <api:text>A generalized marginal stability criterion for shear-induced ocean interior diapycnal turbulent mixing</api:text>
+                        </api:field>
+                    </api:native>
+                </api:record>
+            </api:records>
+            <api:fields />
+            <api:relationships href="https://uat-elements.admin.cam.ac.uk:8091/secure-api/v5.5/publications/1316071/relationships" />
+        </api:object>
+    </entry>
+</feed>

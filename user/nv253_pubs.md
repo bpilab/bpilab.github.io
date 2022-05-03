@@ -1,3 +1,4 @@
+## Publications
 * Jarvis, P.A., Bacik, K.A., Narteau, C., and Vriend, N.M. [Coarsening Dynamics of 2D Subaqueous Dunes](http://dx.doi.org/10.1029/2021jf006492) Journal of Geophysical Research: Earth Surface 2022
 
 * Bacik, K.A., Canizares, P., Caulfield, C.-.C.P., Williams, M.J., and Vriend, N.M. [Dynamics of migrating sand dunes interacting with obstacles](http://dx.doi.org/10.1103/physrevfluids.6.104308) Physical Review Fluids 2021
