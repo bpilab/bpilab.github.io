@@ -1,4 +1,3 @@
-## Publications
 * McCarthy, N.L.C., Brooks, N.J., Tyler, A.I.I., ElGamacy, M., Welche, P.R.L., Payne, M.C., and Chau, P.-.L. [A combined X-ray scattering and simulation study of halothane in membranes at raised pressures](http://dx.doi.org/10.1016/j.cplett.2016.12.041) Chemical Physics Letters 2017
 
 * Wieteska, J.R., Welche, P.R.L., Tu, K.-.M., ElGamacy, M., Csanyi, G., Payne, M.C., and Chau, P.-.L. [Isoflurane does not aggregate inside POPC bilayers at high pressure: Implications for pressure reversal of general anaesthesia](http://dx.doi.org/10.1016/j.cplett.2015.07.065) Chemical Physics Letters 2015

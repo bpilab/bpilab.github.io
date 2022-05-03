@@ -1,4 +1,3 @@
-## Publications
 * Ugwuja, C.G., Olorunnisola, D., Ogunlaja, A., Adelowo, O.O., Taubert, A., Kolawole, G.A., Olukanni, O.D., Uwanibe, J.N., Kayode, A.T., Hesemann, P., Fatta-Kassinos, D., Msagati, T.A.M., Folarin, O.A., Clarke, S.M., and Unuabonah, E.I. [Single-route delaminated clay composites for efficient visible-light photo-mineralization of antibiotic-resistant bacteria and associated genes in water](http://dx.doi.org/10.1016/j.apcatb.2021.120143) Applied Catalysis B: Environmental 2021
 
 * Davidson, J.A., Jenkins, S.J., Gorrec, F., and Clarke, S.M. [2D constraint modifies packing behaviour: a halobenzene monolayer with X3 halogen-bonding motif](http://dx.doi.org/10.1080/00268976.2021.1900940) Molecular Physics: An International Journal at the Interface Between Chemistry and Physics 2021

@@ -1,4 +1,3 @@
-## Publications
 * McCoy, T.M., Armstrong, A.J., Moore, J.E., Holt, S.A., Tabor, R.F., and Routh, A.F. [Spontaneous surface adsorption of aqueous graphene oxide by synergy with surfactants](http://dx.doi.org/10.1039/d1cp04317j) Physical chemistry chemical physics : PCCP 2022
 
 * Brossault, D.F.F., McCoy, T.M., and Routh, A.F. [Preparation of Multicore Colloidosomes: Nanoparticle-Assembled Capsules with Adjustable Size, Internal Structure, and Functionalities for Oil Encapsulation](http://dx.doi.org/10.1021/acsami.1c15334) ACS Applied Materials &amp; Interfaces 2021
