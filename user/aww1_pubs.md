@@ -1,3 +1,4 @@
+## Publications
 * Lippert, M.C., and Woods, A.W. [Experiments on the sedimentation front in steady particle-driven gravity currents](http://dx.doi.org/10.1017/jfm.2020.74) JOURNAL OF FLUID MECHANICS 2020
 
 * Woitischek, J., Woods, A.W., Edmonds, M., Oppenheimer, C., Aiuppa, A., Pering, T.D., Ilanko, T., D'Aleo, R., and Garaebiti, E. [Strombolian eruptions and dynamics of magma degassing at Yasur Volcano (Vanuatu)](http://dx.doi.org/10.1016/j.jvolgeores.2020.106869) Journal of Volcanology and Geothermal Research 2020

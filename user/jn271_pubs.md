@@ -1,3 +1,4 @@
+## Publications
 * Warburton, K., Hewitt, D., and Neufeld, J. [A time-dependent sliding law for granular till](http://dx.doi.org/10.5194/egusphere-egu22-11677)  2022
 
 * Nijjer, J.S., Hewitt, D.R., and Neufeld, J.A. [Horizontal miscible displacements through porous media: the interplay between viscous fingering and gravity segregation](http://dx.doi.org/10.1017/jfm.2021.1067) Journal of Fluid Mechanics 2022
