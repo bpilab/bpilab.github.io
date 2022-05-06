@@ -1,5 +1,5 @@
-[Shallow water models of the interaction of gravity currents with obstacles](https://talks.cam.ac.uk/talk/index/172934)
+[Interactions between barchan dunes](https://talks.cam.ac.uk/talk/index/173096)
 
-Ed Skevington, University of Hull, Thu, 05 May 2022 11:30:00 +0000
+Willian Righi Assis, University of Campinas (UNICAMP). School of Mechanical Engineering, Thu, 12 May 2022 11:30:00 +0000
 
 Open Plan Area, BP Institute, Madingley Rise CB3 0EZ

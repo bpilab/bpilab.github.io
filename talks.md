@@ -4,16 +4,6 @@
 
 *For more information, please visit [talks.cam.ac.uk](https://talks.cam.ac.uk/show/index/5709).*
 
-#### [Shallow water models of the interaction of gravity currents with obstacles](https://talks.cam.ac.uk/talk/index/172934)
-
-**Ed Skevington, University of Hull**
-
-Seminars for the Centre for Environmental and Industrial Flows
-
-Thu, 05 May 2022 11:30:00 +0000
-
-Open Plan Area, BP Institute, Madingley Rise CB3 0EZ
-
 #### [Interactions between barchan dunes](https://talks.cam.ac.uk/talk/index/173096)
 
 **Willian Righi Assis, University of Campinas (UNICAMP). School of Mechanical Engineering**
