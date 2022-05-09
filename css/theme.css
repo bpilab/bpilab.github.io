@@ -77,6 +77,18 @@ figcaption {
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: space-between;
+	align-items: center;
+}
+
+.fcols div {
+        flex-basis: 40%;
+}
+
+.fstaff {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
 }
 
 button {border-radius: 25px; background-color: black; color: white; border: 0; }
