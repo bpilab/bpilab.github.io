@@ -24,8 +24,6 @@
 
 * Pritchard, D., Roberts, G.G., White, N.J., and Richardson, C.N. [Uplift histories from river profiles](http://dx.doi.org/10.1029/2009gl040928) Geophysical Research Letters 2009
 
-* Pritchard, D., Roberts, G.G., White, N.J., and Richardson, C.N. [Uplift Histories from River Profiles](http://dx.doi.org/10.1029/2009gl040928) Geophysical Research Letters 2009
-
 * IL'ICHEV, A.T., TSYPKIN, G.G., PRITCHARD, D., and RICHARDSON, C.N. [Instability of the salinity profile during the evaporation of saline groundwater](http://dx.doi.org/10.1017/s0022112008003182) Journal of Fluid Mechanics 2008
 
 * PRITCHARD, D., and RICHARDSON, C.N. [The effect of temperature-dependent solubility on the onset of thermosolutal convection in a horizontal porous layer](http://dx.doi.org/10.1017/s0022112006003211) Journal of Fluid Mechanics 2007

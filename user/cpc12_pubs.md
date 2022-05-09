@@ -1,4 +1,6 @@
 ## Publications
+* Heffernan, C., and Caulfield, C.-.C.P. [Robust and efficient identification of optimal mixing perturbations using proxy multiscale measures](http://dx.doi.org/10.1098/rsta.2021.0026) Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 2022
+
 * Mashayek, A., Reynard, N., Zhai, F., Srinivasan, K., Jelley, A., Naveira Garabato, A.C., and Caulfield, C. [Deep ocean learning of small scale turbulence](http://dx.doi.org/10.1002/essoar.10510319.2)  2022
 
 * Mashayek, A., Barry, B., Alford, M., Cimoli, L., and Caulfield, C.-.C. [A physical-statistical recipe for representation of small scale oceanic turbulent mixing in climate models](http://dx.doi.org/10.1002/essoar.10508227.2)  2022
