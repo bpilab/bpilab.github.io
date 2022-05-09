@@ -81,7 +81,22 @@ figcaption {
 }
 
 .fcols div {
-        flex-basis: 40%;
+        flex-basis: 100%;
+}
+
+.fcols div img {
+        flex-basis: 30%;
+        flex-grow: 3;
+}
+
+.fcols div name {
+        flex-basis: 30%;
+        flex-grow: 1;
+}
+
+.fcols div role {
+        flex-basis: 30%;
+        flex-grow: 1;
 }
 
 .fstaff {
