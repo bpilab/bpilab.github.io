@@ -30,7 +30,7 @@ Open Plan Area, BP Institute, Madingley Rise CB3 0EZ
 
 Seminars for the Centre for Environmental and Industrial Flows
 
-Thu, 09 Jun 2022 11:30:00 +0000
+Thu, 16 Jun 2022 11:30:00 +0000
 
 Open Plan Area, BP Institute, Madingley Rise CB3 0EZ
 

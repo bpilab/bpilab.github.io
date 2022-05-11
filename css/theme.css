@@ -96,6 +96,11 @@ figcaption {
 }
 
 .fbox {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: flex-start;
 }
 
 button {border-radius: 25px; background-color: black; color: white; border: 0; }
