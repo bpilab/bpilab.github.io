@@ -78,10 +78,15 @@ figcaption {
 	flex-wrap: wrap;
 	justify-content: space-between;
 	align-items: flex-start;
+
 }
 
 .fcols div {
+        display: flex;
+        flex-direction: column;
         flex-basis: 30%;
+        align-items: center;
+        text-align: center;
 }
 
 .fstaff {
