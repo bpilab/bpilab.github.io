@@ -86,7 +86,6 @@ figcaption {
         flex-direction: column;
         flex-basis: 30%;
         align-items: center;
-        text-align: center;
 }
 
 .fstaff {
@@ -94,6 +93,9 @@ figcaption {
 	flex-direction: row;
 	flex-wrap: wrap;
 	justify-content: space-between;
+}
+
+.fbox {
 }
 
 button {border-radius: 25px; background-color: black; color: white; border: 0; }
