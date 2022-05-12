@@ -103,7 +103,10 @@ figcaption {
 	align-items: flex-start;
 }
 
-button {border-radius: 25px; background-color: black; color: white; border: 0; }
+button {border-radius: 25px; background-color: #404080; color: white; border: none; outline: none; min-width: 20%; padding: 10px; margin: 10px;}
+button:focus {border: none; outline: none;}
+
+div#filter {align-items: center;}
 
 img.people {border-radius: 50px;}
 div.person {margin: 4px;}

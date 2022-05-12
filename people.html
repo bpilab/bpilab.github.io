@@ -58,9 +58,9 @@
         </div>
         <div class="col-md-9 mt-3">
             <div id="filter">
-    <button class="faculty">Faculty</button>
-    <button class="staff">Staff</button>
-    <button class="research">Research</button>
+    <button id="faculty">Faculty</button>
+    <button id="staff">Staff</button>
+    <button id="research">Research</button>
 </div>
 
 <div id="people" class="fcols">
@@ -516,23 +516,21 @@
 <script>
 var mylist = $('#people');
 var listitems = mylist.children('div').get();
+
 listitems.sort(function(a, b) {
 return $(a).attr('surname').localeCompare($(b).attr('surname'));
 })
 
 $.each(listitems, function(idx, itm) { mylist.append(itm); });
 
-</script>
-
-<script>
-button_state = new Map();
+var button_state = new Map([['faculty', true], ['staff', true], ['research', true]]);
 
 $("#filter button").on("click", function(){
-    var filtertag = $(this).attr('class');
-    button_state[filtertag] = !button_state[filtertag];
-    console.log(filtertag);
-    console.log(button_state[filtertag]);
-    if (button_state[filtertag]) {
+    var filtertag = $(this).attr('id');
+    console.log(button_state)
+    button_state.set(filtertag, !button_state.get(filtertag));
+
+    if (button_state.get(filtertag)) {
 	$('.person').filter('.' + filtertag).show(300);
 	$(this).css('background-color', '#404080')
     }
@@ -542,6 +540,7 @@ $("#filter button").on("click", function(){
         $(this).css('background-color', '#c0c0c0')
     };
 });
+
 </script>
 
 
