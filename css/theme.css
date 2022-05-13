@@ -103,14 +103,43 @@ figcaption {
 	align-items: flex-start;
 }
 
-button {border-radius: 25px; background-color: #404080; color: white; border: none; outline: none; min-width: 20%; padding: 10px; margin: 10px;}
-button:focus {border: none; outline: none;}
+button {
+        border-radius: 25px;
+        background-color: #404080;
+        color: white;
+        border: none;
+        outline: none;
+        min-width: 20%;
+        padding: 10px;
+        margin: 10px;
+}
 
-div#filter {align-items: center;}
+button:focus {
+        border: none;
+        outline: none;
+}
 
-img.people {border-radius: 50px;}
-div.person {margin: 4px;}
+div#filter {
+        align-items: center;
+}
 
-input {    font-family: 'Lato', sans-serif;
-	   font-size: 1.5rem; background-color: #343a40; color: #f8f9fa;}
-input#searchicon {background-color: #343a40; border:none; outline: none;}
+img.people {
+        border-radius: 50px;
+}
+
+div.person {
+        margin: 4px;
+}
+
+input {
+        font-family: 'Lato', sans-serif;
+        font-size: 1.5rem;
+        background-color: #343a40;
+        color: #f8f9fa;
+}
+
+input#searchicon {
+        background-color: #343a40;
+        border:none;
+        outline: none;
+}
