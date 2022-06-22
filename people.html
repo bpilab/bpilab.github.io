@@ -66,6 +66,7 @@
     <button id="faculty">Faculty</button>
     <button id="staff">Staff</button>
     <button id="research">Research</button>
+    <button id="students">Students</button>
 </div>
 
 <div id="people" class="fcols">
@@ -115,6 +116,21 @@
         </div>
         <div class="role" style="text-align:center">
             Head of Institute
+        </div>
+    </div>
+    
+    
+    
+    
+    <div class="person students" surname="Boggio-Robutti">
+        <div class="img">
+            <a href="/user/bamb2"><img class="people" src="images/bamb2.jpg" width="92px" /></a>
+        </div>
+        <div class="name">
+            <a href="/user/bamb2">Beatrice Anna Maria Boggio-Robutti</a>
+        </div>
+        <div class="role" style="text-align:center">
+            PhD student
         </div>
     </div>
     
@@ -524,7 +540,7 @@ return $(a).attr('surname').localeCompare($(b).attr('surname'));
 
 $.each(listitems, function(idx, itm) { mylist.append(itm); });
 
-var button_state = new Map([['faculty', true], ['staff', true], ['research', true]]);
+var button_state = new Map([['faculty', true], ['staff', true], ['research', true], ['students', true]]);
 
 $("#filter button").on("click", function(){
     var filtertag = $(this).attr('id');
